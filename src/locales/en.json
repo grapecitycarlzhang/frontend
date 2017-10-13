@@ -1,0 +1,5 @@
+{
+    "todo.title": "Title标题",
+    "welcome.title":"Welcome to ToDo demo",
+    "welcome.content":"This sample will show you how to build single page applications using react, redux, typescript, and webpack"
+}

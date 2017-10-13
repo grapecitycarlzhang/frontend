@@ -1,0 +1,5 @@
+{
+    "todo.title": "标题",
+    "welcome.title":"欢迎来到任务样例",
+    "welcome.content":"该样例将展示如何使用react,redux,typescript,webpack构建单页应用"
+}
